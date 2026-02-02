@@ -32,7 +32,8 @@ Backend Development · Application Logic · Databases · Clean Code
 ## 🎨 Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Penpot-000000?style=flat&logo=penpot&logoColor=white"/>
+  <img src="https://site-assets.plasmic.app/5a092f8c015ea24a9c0953e5ca065580.svg" width="32"/>
+
 </p>
 
 ---
