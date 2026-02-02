@@ -32,7 +32,8 @@ Backend Development · Application Logic · Databases · Clean Code
 ## 🎨 Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://site-assets.plasmic.app/5a092f8c015ea24a9c0953e5ca065580.svg" height="28"/>
+ <img src="https://cdn.brandfetch.io/idmUOaSbid/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1764583065960" width="40"/>
+
 
 </p>
 
