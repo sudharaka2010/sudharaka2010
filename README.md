@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Sudharaka Lakshan — Full-Stack Developer and UI/UX Designer" width="100%" />
+<img src="./profile-banner.png" alt="Sudharaka Lakshan — Full-Stack Developer and UI/UX Designer" width="100%" />
 
 <br>
 
