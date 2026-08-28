@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Sudharaka Lakshan — Full-Stack Developer and UI/UX Designer" width="100%" />
-
-<br>
-
 # Sudharaka Lakshan
 
-### Full-Stack Developer · Backend Development · UI/UX Design
+### Software Engineering Undergraduate · Full-Stack Developer · Backend & UI/UX
 
 <p>
-  I create practical software solutions with clean interfaces,<br>
-  reliable backend systems, and maintainable code.
+Building reliable software with structured backend architecture,<br>
+clean interfaces, secure APIs, and maintainable code.
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/sudharaka-thilakasiri-229575199">
-    <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://sudharaka-lakshan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-134E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/sudharaka2010">
-    <img src="https://img.shields.io/badge/GitHub-0B3B39?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -29,106 +25,181 @@
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I am a software developer focused on building useful, user-friendly digital products. I enjoy turning ideas into dependable applications by combining thoughtful UI/UX design with structured backend development.
+I am a Software Engineering undergraduate focused on developing practical, maintainable, and user-centered software solutions.
 
-- Building full-stack web applications
-- Developing Java and Spring Boot solutions
-- Designing REST APIs and database systems
-- Creating clean interfaces with React and Figma
-- Continuously learning through practical projects
-
----
-
-## 🧰 Technology Stack
-
-### Backend & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php" alt="Backend technologies" />
-</p>
-
-### Frontend & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" alt="Frontend and design technologies" />
-</p>
-
-### Databases & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,idea" alt="Databases and development tools" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Lottery Result Scraper & REST API</h3>
-      <p>Automated lottery-data scraping and REST API system with structured database integration.</p>
-      <p><strong>Java · Spring Boot · Jsoup · MySQL</strong></p>
-      <a href="https://github.com/sudharaka2010/synapse_q3_lottery">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Smart Inventory System</h3>
-      <p>Inventory and product-management platform designed for practical business operations.</p>
-      <p><strong>PHP · MariaDB · MVC</strong></p>
-      <a href="https://github.com/sudharaka2010/smart-inventory-system">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>MedicarePlus</h3>
-      <p>Healthcare-management application with an organized MVC architecture and local data storage.</p>
-      <p><strong>Java · MVC · SQLite</strong></p>
-      <a href="https://github.com/sudharaka2010/MedicarePlus">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Student Predictor</h3>
-      <p>Machine-learning application that predicts student performance from academic data.</p>
-      <p><strong>Python · Flask · Scikit-learn</strong></p>
-      <a href="https://github.com/sudharaka2010/AI-Student-Predictor">View Repository →</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎯 Current Focus
+My work combines **backend engineering, full-stack development, database design, REST APIs, and UI/UX**, with an emphasis on clear architecture and real-world usability.
 
 ```text
-▸ Strengthening Java and Spring Boot development
-▸ Building secure and reliable REST APIs
-▸ Improving full-stack application architecture
-▸ Designing simple, accessible user experiences
-▸ Creating practical software for real-world needs
+Backend Engineering     Java · Spring Boot · Node.js
+Frontend Development    React · JavaScript · HTML · CSS
+Database Systems        MySQL · PostgreSQL · SQLite · MariaDB
+Software Design         REST APIs · MVC · Modular Architecture
+UI/UX                   Figma · Responsive Interfaces
+Development Tools       Git · GitHub · VS Code · IntelliJ IDEA
 ```
 
 ---
 
-## 🤝 Let’s Connect
+## Technical Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Languages
+
+* Java
+* JavaScript
+* Python
+* PHP
+* HTML / CSS
+
+</td>
+<td valign="top" width="33%">
+
+### Frameworks
+
+* Spring Boot
+* React
+* Node.js
+* Flask
+* MVC Architecture
+
+</td>
+<td valign="top" width="33%">
+
+### Data & Tools
+
+* MySQL
+* PostgreSQL
+* SQLite
+* MariaDB
+* Git / GitHub
+* Figma
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,js,react,html,css,mysql,postgres,sqlite,git,github,figma,vscode,idea&perline=9" alt="Technology Stack"/>
+</p>
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Lottery Result Scraper & REST API
+
+Automated lottery-data collection platform with structured database integration and REST API access.
+
+**Java · Spring Boot · Jsoup · MySQL**
+
+[View Repository →](https://github.com/sudharaka2010/synapse_q3_lottery)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Smart Inventory System
+
+Business-oriented inventory and product-management system structured around MVC principles.
+
+**PHP · MariaDB · MVC**
+
+[View Repository →](https://github.com/sudharaka2010/smart-inventory-system)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### MedicarePlus
+
+Healthcare-management application designed with organized application layers and local data persistence.
+
+**Java · MVC · SQLite**
+
+[View Repository →](https://github.com/sudharaka2010/MedicarePlus)
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Student Predictor
+
+Machine-learning application for predicting student performance using academic data.
+
+**Python · Flask · Scikit-learn**
+
+[View Repository →](https://github.com/sudharaka2010/AI-Student-Predictor)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Focus
+
+* **Backend Development** — structured business logic, services, APIs, and persistence
+* **REST API Design** — maintainable endpoints and clean client-server communication
+* **Database Design** — relational modelling and practical data management
+* **Full-Stack Development** — connecting frontend interfaces with reliable backend systems
+* **Software Architecture** — modularity, maintainability, low coupling, and clear responsibilities
+* **UI/UX Design** — accessible, responsive, and user-focused interfaces
+* **Secure Development** — authentication, validation, data handling, and defensive programming
+
+---
+
+## Currently Developing
+
+```text
+01  Advanced Java & Spring Boot
+02  REST API architecture and backend security
+03  Full-stack application architecture
+04  Database-driven software systems
+05  Testing and software quality
+06  Accessible and responsive UI/UX
+```
+
+---
+
+## Development Principles
+
+> Clean architecture. Clear responsibilities. Reliable software.
+
+I aim to build software that is not only functional, but also **understandable, maintainable, secure, and useful in real-world environments**.
+
+---
+
+## Connect
 
 <div align="center">
 
-### Open to Software Development Opportunities
+### Open to Software Engineering Opportunities
 
-I am interested in internships, junior software-development roles, freelance projects, and collaborative opportunities.
+Internships · Junior Software Engineering · Backend Development · Full-Stack Development · Collaborative Projects
 
 <br>
 
 <a href="https://www.linkedin.com/in/sudharaka-thilakasiri-229575199">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://sudharaka-lakshan.vercel.app">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-134E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br><br>
 
-<sub>Building practical software with clean code and thoughtful design.</sub>
+<sub>Software Engineering · Backend Development · Full-Stack Development · UI/UX</sub>
 
 </div>
