@@ -132,8 +132,3 @@ I am interested in internships, junior software-development roles, freelance pro
 <sub>Building practical software with clean code and thoughtful design.</sub>
 
 </div>
-
-
-i want remove banner i want professinal  desnce trust clean HQ HD   structure also 
-
-modern and creative 
