@@ -1,134 +1,174 @@
 <div align="center">
 
-<img src="./profile-banner.png" alt="Sudharaka Lakshan — Full-Stack Developer and UI/UX Designer" width="100%" />
+# Sudharaka Lakshan
+
+### Software Developer · Full-Stack Development · Backend Engineering
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=0F766E&center=true&vCenter=true&width=650&lines=Building+Reliable+Software+Solutions;Java+%7C+Spring+Boot+%7C+REST+APIs;Full-Stack+Development+%7C+UI%2FUX;Clean+Architecture+%7C+Maintainable+Code" alt="Professional Development Focus" />
+</a>
 
 <br>
 
-# Sudharaka Lakshan
-
-### Full-Stack Developer · Backend Development · UI/UX Design
-
-<p>
-  I create practical software solutions with clean interfaces,<br>
-  reliable backend systems, and maintainable code.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/sudharaka-thilakasiri-229575199">
-    <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sudharaka-lakshan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-134E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/sudharaka2010">
-    <img src="https://img.shields.io/badge/GitHub-0B3B39?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/sudharaka-thilakasiri-229575199">
+  <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://sudharaka-lakshan.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-134E4A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/sudharaka2010">
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I am a software developer focused on building useful, user-friendly digital products. I enjoy turning ideas into dependable applications by combining thoughtful UI/UX design with structured backend development.
+Software Engineering undergraduate and developer focused on building practical, reliable, and user-centered software solutions.
 
-- Building full-stack web applications
-- Developing Java and Spring Boot solutions
-- Designing REST APIs and database systems
-- Creating clean interfaces with React and Figma
-- Continuously learning through practical projects
+My primary interests include **backend engineering, full-stack development, REST APIs, database systems, software architecture, and UI/UX design**.
+
+I focus on writing maintainable code, designing structured systems, and transforming practical requirements into dependable applications.
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
 ### Backend & Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php&theme=dark" alt="Java, Spring Boot, Node.js, Python and PHP" />
 </p>
 
 ### Frontend & Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" alt="Frontend and design technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" alt="HTML, CSS, JavaScript, React and Figma" />
 </p>
 
-### Databases & Development Tools
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,idea" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL, PostgreSQL and SQLite" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark" alt="Git, GitHub, Visual Studio Code and IntelliJ IDEA" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Lottery Result Scraper & REST API</h3>
-      <p>Automated lottery-data scraping and REST API system with structured database integration.</p>
-      <p><strong>Java · Spring Boot · Jsoup · MySQL</strong></p>
-      <a href="https://github.com/sudharaka2010/synapse_q3_lottery">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Smart Inventory System</h3>
-      <p>Inventory and product-management platform designed for practical business operations.</p>
-      <p><strong>PHP · MariaDB · MVC</strong></p>
-      <a href="https://github.com/sudharaka2010/smart-inventory-system">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>MedicarePlus</h3>
-      <p>Healthcare-management application with an organized MVC architecture and local data storage.</p>
-      <p><strong>Java · MVC · SQLite</strong></p>
-      <a href="https://github.com/sudharaka2010/MedicarePlus">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Student Predictor</h3>
-      <p>Machine-learning application that predicts student performance from academic data.</p>
-      <p><strong>Python · Flask · Scikit-learn</strong></p>
-      <a href="https://github.com/sudharaka2010/AI-Student-Predictor">View Repository →</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Lottery Result Scraper & REST API
+
+Automated data-scraping and REST API system for collecting, processing, storing, and exposing structured lottery information.
+
+**Java · Spring Boot · Jsoup · MySQL · REST API**
+
+[View Repository](https://github.com/sudharaka2010/synapse_q3_lottery)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Smart Inventory System
+
+Inventory and product-management platform designed around structured business operations and maintainable application architecture.
+
+**PHP · MariaDB · MVC**
+
+[View Repository](https://github.com/sudharaka2010/smart-inventory-system)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### MedicarePlus
+
+Healthcare-management application developed using structured MVC architecture and database-backed information management.
+
+**Java · MVC · SQLite**
+
+[View Repository](https://github.com/sudharaka2010/MedicarePlus)
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Student Predictor
+
+Machine-learning application for analyzing academic information and predicting student performance through a web interface.
+
+**Python · Flask · Scikit-learn**
+
+[View Repository](https://github.com/sudharaka2010/AI-Student-Predictor)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```text
-▸ Strengthening Java and Spring Boot development
-▸ Building secure and reliable REST APIs
-▸ Improving full-stack application architecture
-▸ Designing simple, accessible user experiences
-▸ Creating practical software for real-world needs
+Java & Spring Boot
+Backend Engineering
+REST API Design
+Database-Driven Applications
+Full-Stack Architecture
+Clean Code & Maintainability
+UI/UX Engineering
 ```
 
 ---
 
-## 🤝 Let’s Connect
+## Development Principles
+
+```text
+Clean Architecture
+Low Coupling
+High Cohesion
+Maintainable Code
+Secure API Design
+Structured Data Management
+Accessible User Interfaces
+Practical Problem Solving
+```
+
+---
+
+## Connect
 
 <div align="center">
 
-### Open to Software Development Opportunities
+### Open to Software Engineering Opportunities
 
-I am interested in internships, junior software-development roles, freelance projects, and collaborative opportunities.
+Software Engineering Internships · Junior Developer Roles
+Backend Development · Full-Stack Development · Collaborative Projects
 
 <br>
 
 <a href="https://www.linkedin.com/in/sudharaka-thilakasiri-229575199">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://sudharaka-lakshan.vercel.app">
-  <img src="https://img.shields.io/badge/Explore_My_Portfolio-134E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-134E4A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <br><br>
 
-<sub>Building practical software with clean code and thoughtful design.</sub>
+<sub>Building reliable software through structured engineering and thoughtful design.</sub>
 
 </div>
